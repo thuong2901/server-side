@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
     "\\models",
     "\\routes"
   ],
-  "SelectedNode": "\\routes\\promoRouter.js",
+  "SelectedNode": "\\bin\\www",
   "PreviewInSolutionExplorer": false
 }
